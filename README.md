@@ -6,24 +6,12 @@
 <p align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32">
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="32">
 <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="32">
 <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/oldtimeyparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/revolutionparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="32">
 <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="32">
-<img src="https://cultofthepartyparrot.com/parrots/hd/witnessparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32">
 </p>
 <h2>
   About Me
