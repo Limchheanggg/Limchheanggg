@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+things+and+learning+along+the+way;Exploring+AI,+Data,+and+Software">
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=220&section=header&text=Lim%20Chheang&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+</p>
 <br>
 <p align="center">
 <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32">
