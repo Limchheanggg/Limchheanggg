@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=27&duration=3500&pause=1000&color=FF61D8&center=true&vCenter=true&width=950&lines=Dreaming+in+Python;Building+cool+things;Consistency+beats+talent">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=27&duration=3500&pause=1000&color=FF61D8&center=true&vCenter=true&width=1100&lines=Data+Science+Student;Exploring+AI,+Data+%26+Software;Passionate+About+AI+%26+Technology;Consistency+beats+talent;Learning+today,+building+tomorrow">
 </p>
 
 <br>
