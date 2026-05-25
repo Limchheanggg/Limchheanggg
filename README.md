@@ -18,7 +18,7 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="35">
 <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35">
 </p>
-About Me<img src="https://camo.githubusercontent.com/3bead0ca844ec888f5bd0322a010a099cd405324790c2112818f611cc9af9123/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f736c6f6d6f706172726f742e676966" width="30">
+About Me <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="35">
 
 I'm a Data Science student at the **Institute of Technology of Cambodia (ITC)** with a strong interest in technology, problem-solving, and building practical applications.
 
