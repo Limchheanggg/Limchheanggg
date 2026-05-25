@@ -25,7 +25,10 @@ I'm a Data Science student at the Institute of Technology of Cambodia (ITC) with
 
 Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning. I enjoy building real-world solutions and exploring how software and data can create meaningful impact.
 
-👨‍🎓 Currently Learning
+<h3>
+<img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" width="45">
+  Currently Learning
+</h3>
 
 - Applied Mathematics
 - Machine Learning
@@ -33,14 +36,20 @@ Over time, I've been developing skills in data science, web development, and bac
 - Statistics
 - Software Development
 
-🚀 Current Focus
+<h3>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="45">
+  Current Focus
+</h3>
 
 - Building full-stack applications
 - Developing APIs with FastAPI
 - Improving Data Science skills
 - Exploring AI and modern web technologies
 
-🤝 Open to collaboration and exciting projects.
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/216656956-c5f97119-4de0-4e55-8906-c2699cc43ccd.gif" width="45">
+  Open to collaboration and exciting projects.
+</p>
 <br>
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="45">
