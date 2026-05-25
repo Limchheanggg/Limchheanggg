@@ -44,7 +44,7 @@ Over time, I've been developing skills in data science, web development, and bac
 <br>
 <h2>
   Contact Me
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="35">
+  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="45">
 </h2>
 
 <p align="left">
