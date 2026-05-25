@@ -1,25 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+things+and+learning+along+the+way;Exploring+AI,+Data,+and+Software">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+things+and+learning+along+the+way;Exploring+AI,+Data,+and+Software">
 </p>
 
+<br>
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="32">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="32">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="32">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/oldtimeyparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/revolutionparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/shuffleparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="32">
+<img src="https://cultofthepartyparrot.com/parrots/hd/witnessparrot.gif" width="32">
 </p>
-
----
-
-## About Me 
+<h2>
+  About Me
+  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="40">
+</h2>
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-I'm a Data Science student at the **Institute of Technology of Cambodia (ITC)** with a strong interest in technology, problem-solving, and building practical applications.
+I'm a Data Science student at the Institute of Technology of Cambodia (ITC) with a strong interest in technology, problem-solving, and building practical applications.
 
 Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning. I enjoy building real-world solutions and exploring how software and data can create meaningful impact.
 
-### 👨‍🎓 Currently Learning
+👨‍🎓 Currently Learning
 
 - Applied Mathematics
 - Machine Learning
@@ -27,7 +42,7 @@ Over time, I've been developing skills in data science, web development, and bac
 - Statistics
 - Software Development
 
-### 🚀 Current Focus
+🚀 Current Focus
 
 - Building full-stack applications
 - Developing APIs with FastAPI
@@ -35,11 +50,6 @@ Over time, I've been developing skills in data science, web development, and bac
 - Exploring AI and modern web technologies
 
 🤝 Open to collaboration and exciting projects.
-
-<br clear="right"/>
-
----
-
 ## 📫 Contact Me
 
 <p align="left">
@@ -65,13 +75,8 @@ Over time, I've been developing skills in data science, web development, and bac
 </a>
 
 </p>
-
----
-
-## 🛠 Skills
-
+Skills 🛠
 ### Programming Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
