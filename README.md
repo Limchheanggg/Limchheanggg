@@ -28,7 +28,6 @@ Currently improving my skills through hands-on development, collaborative projec
 
 
 ## Skills 🛠
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
