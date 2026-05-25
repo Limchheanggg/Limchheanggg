@@ -4,7 +4,7 @@
 
 <br>
 </p>
-## About Me 👨‍💻
+About Me 👨‍💻
 
 I'm a Data Science student passionate about technology, problem-solving, and building practical applications. I enjoy learning through projects and exploring how data and software can solve real-world challenges.
 
