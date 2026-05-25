@@ -9,9 +9,9 @@
 </p>
 About Me 👨‍💻
 
-I'm a Data Science student passionate about technology, problem-solving, and building practical applications. I enjoy learning through projects and exploring how data and software can solve real-world challenges.
+I'm a Data Science student at the **Institute of Technology of Cambodia (ITC)** with a strong interest in technology, problem-solving, and building practical applications.
 
-Currently improving my skills through hands-on development, collaborative projects, and continuous learning.
+Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning. I enjoy building real-world solutions and exploring how software and data can create meaningful impact.
 
 👨‍🎓 Currently Learning
 
@@ -23,7 +23,8 @@ Currently improving my skills through hands-on development, collaborative projec
 
 🚀 Current Focus
 
-- Building real-world applications
+- Building full-stack applications
+- Developing APIs with FastAPI
 - Improving Data Science skills
 - Exploring AI and modern web technologies
 
