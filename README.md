@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Lim+Chheang+👋;Data+Science+Student;React+%7C+Python+Developer;Always+Learning+New+Things+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+things+and+learning+along+the+way;Exploring+AI,+Data,+and+Software">
+</p>
+
+<br>
 </p>
 ## About Me 👨‍💻
 
@@ -27,10 +30,18 @@ Currently improving my skills through hands-on development, collaborative projec
 ## Skills 🛠
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Limchheanggg&show_icons=true&theme=tokyonight"/>
+## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limchheanggg&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Limchheanggg&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limchheanggg&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Limchheanggg&theme=tokyonight&hide_border=true"/>
 </p>
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
