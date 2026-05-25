@@ -21,7 +21,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="40">
 </h2>
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-I'm a Data Science student at the Institute of Technology of Cambodia (ITC) with a strong interest in technology, problem-solving, and building practical applications.
+I'm a Data Science student at the <a href="https://itc.edu.kh/" target="_blank">Institute of Technology of Cambodia (ITC)</a> with a strong interest in technology, problem-solving, and building practical applications.
 
 Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning. I enjoy building real-world solutions and exploring how software and data can create meaningful impact.
 
