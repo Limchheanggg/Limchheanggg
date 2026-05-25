@@ -67,6 +67,10 @@ Currently improving my skills through hands-on development, collaborative projec
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
+### Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
