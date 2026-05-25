@@ -75,7 +75,7 @@ Over time, I've been developing skills in data science, web development, and bac
 </a>
 
 </p>
-### 🛠 Skills
+###🛠 Skills
 
 ### Programming Languages
 
