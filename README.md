@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Lim+Chheang+👋;Data+Science+Student;React+%7C+Python+Developer;Always+Learning+New+Things+🚀">
+</p>
 ## About Me 👨‍💻
 
 I'm a Data Science student passionate about technology, problem-solving, and building practical applications. I enjoy learning through projects and exploring how data and software can solve real-world challenges.
@@ -22,7 +25,13 @@ Currently improving my skills through hands-on development, collaborative projec
 
 
 ## Skills 🛠
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Limchheanggg&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limchheanggg&layout=compact&theme=tokyonight"/>
+</p>
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -42,3 +51,9 @@ Currently improving my skills through hands-on development, collaborative projec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Limchheanggg&theme=tokyonight">
+</p>
