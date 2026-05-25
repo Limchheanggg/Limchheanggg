@@ -4,6 +4,9 @@
 
 <br>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</p>
 About Me 👨‍💻
 
 I'm a Data Science student passionate about technology, problem-solving, and building practical applications. I enjoy learning through projects and exploring how data and software can solve real-world challenges.
