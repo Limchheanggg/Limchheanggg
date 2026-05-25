@@ -111,3 +111,6 @@ Skills 🛠
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limchheanggg&theme=github-dark&hide_border=true" width="70%">
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limchheanggg&theme=tokyo-night&hide_border=true"/>
+</p>
