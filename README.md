@@ -50,6 +50,7 @@ Over time, I've been developing skills in data science, web development, and bac
 - Exploring AI and modern web technologies
 
 🤝 Open to collaboration and exciting projects.
+<br>
 📫 Contact Me
 
 <p align="left">
