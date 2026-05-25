@@ -80,7 +80,10 @@ Over time, I've been developing skills in data science, web development, and bac
 
 </p>
 
-## 🛠 Skills
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="45">
+  Skills
+</h1>
 
 ### Programming Languages
 
