@@ -5,7 +5,18 @@
 <br>
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3bead0ca844ec888f5bd0322a010a099cd405324790c2112818f611cc9af9123/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f736c6f6d6f706172726f742e676966" width="80">
+<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="35">
+<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="35">
 </p>
 About Me 👨‍💻
 
