@@ -51,7 +51,7 @@ Over time, I've been developing skills in data science, web development, and bac
 
 🤝 Open to collaboration and exciting projects.
 <br>
-# 📫 Contact Me
+## 📫 Contact Me
 
 <p align="left">
 
@@ -76,7 +76,8 @@ Over time, I've been developing skills in data science, web development, and bac
 </a>
 
 </p>
-# 🛠 Skills
+
+## 🛠 Skills
 
 ### Programming Languages
 
