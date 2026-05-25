@@ -25,31 +25,40 @@
 <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="32">
 <img src="https://cultofthepartyparrot.com/parrots/hd/witnessparrot.gif" width="32">
 </p>
-<h2>
-  About Me
-  <img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="40">
-</h2>
+<table>
+<tr>
+<td width="60%">
+
+## 👨‍💻 About Me
 
 I'm a Data Science student at the **Institute of Technology of Cambodia (ITC)** with a strong interest in technology, problem-solving, and building practical applications.
 
-Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning. I enjoy building real-world solutions and exploring how software and data can create meaningful impact.
+Over time, I've been developing skills in data science, web development, and backend technologies through hands-on projects and continuous learning.
 
-👨‍🎓 Currently Learning
-
+### 🌱 Currently Learning
 - Applied Mathematics
 - Machine Learning
 - Data Analysis
 - Statistics
 - Software Development
 
-🚀 Current Focus
-
+### 🚀 Current Focus
 - Building full-stack applications
 - Developing APIs with FastAPI
 - Improving Data Science skills
 - Exploring AI and modern web technologies
 
 🤝 Open to collaboration and exciting projects.
+
+</td>
+
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+</td>
+</tr>
+</table>
 ## 📫 Contact Me
 
 <p align="left">
