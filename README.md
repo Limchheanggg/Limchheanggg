@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Building+things+and+learning+along+the+way;Exploring+AI,+Data,+and+Software">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Data+Science+Student;Training+models+and+training+myself;Transforming+data+into+insights;Exploring+Machine+Learning+and+AI;Code+is+where+ideas+become+reality;Small+steps+every+day+lead+to+big+results">
 </p>
 
 <br>
