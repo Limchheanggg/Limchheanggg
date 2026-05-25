@@ -104,8 +104,6 @@ Skills 🛠
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
 ## 🔥 Contribution Activity
 
 <p align="center">
