@@ -113,11 +113,11 @@ Over time, I've been developing skills in data science, web development, and bac
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </p>
 
-<!--## 🔥 Contribution Activity
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limchheanggg&theme=github-dark&hide_border=true" width="70%">
-</p>-->
+</p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limchheanggg&theme=tokyo-night&hide_border=true"/>
 </p> -->
