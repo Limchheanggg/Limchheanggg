@@ -116,7 +116,6 @@ Over time, I've been developing skills in data science, web development, and bac
 
 ### Backend Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
